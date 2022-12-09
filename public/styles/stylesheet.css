@@ -1,0 +1,10 @@
+body {
+  background-color: lightblue;
+}
+
+.topnav {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
